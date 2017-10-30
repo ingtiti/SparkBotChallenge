@@ -89,4 +89,4 @@ bot_email = "ElBeto@sparkbot.io"
 bot_name = "ElBeto"
 bearer = "Y2ExNTU3YTYtYzVmNi00NzE3LTg5NDktMTMxNTA5MjA4YjVlMWY4ODBiMmYtOTYz"
 bat_signal  = "https://upload.wikimedia.org/wikipedia/en/c/c6/Bat-signal_1989_film.jpg"
-run_itty(server='wsgiref', host='0.0.0.0', port=10010)
+run_itty(server='wsgiref', host='107.170.206.92', port=10010)
